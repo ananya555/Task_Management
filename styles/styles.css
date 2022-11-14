@@ -1,18 +1,19 @@
-*{
+* {
     padding: 0;
     margin: 0;
-}
-
-body{
-    background-color: #ebf2ff !important;
-}
-
-.add__new__btn__mobile__only{
+  }
+  
+  body {
+    background-color: #3a3c3e !important;
+  }
+  
+  .add__new__btn__mobile__only {
     position: fixed;
     bottom: 0;
-    right:0;
+    right: 0;
     padding: 15px 10px;
-    background: white;
+    background: rgb(53, 51, 51);
     z-index: 3;
     width: 100%;
-} 
+  }
+  
